@@ -1,0 +1,12 @@
+.logo{
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.bg-body-tertiary{
+    background-color: #0097e6;
+}
+
+.navbar-brand{
+    color: blue;
+}
