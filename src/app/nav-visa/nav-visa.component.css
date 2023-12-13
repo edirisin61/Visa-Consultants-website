@@ -1,0 +1,51 @@
+.div-body{
+    background-color: rgb(17, 17, 90);
+    background-attachment:fixed;
+    background-size: cover;
+    display: block;
+    color: white;
+    justify-content: center;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+h1:hover{
+    font-weight: bolder;
+    color: rgb(11, 182, 97);
+    text-decoration: double;
+    font-style: italic;
+    text-shadow: rgb(9, 97, 100);
+}
+
+.div-details-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.div-visa{
+    width: 400px;
+    margin: 15px;
+    display: block;
+    align-items: center;
+}
+
+.div-details-2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+img:hover{
+    opacity: 0.6;
+}
